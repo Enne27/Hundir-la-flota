@@ -1,7 +1,7 @@
 # Hundir-la-flota
 Primer jueguito hecho en terminal de Java el año pasado.
 
-/* Fer una primera versió del joc dels vaixells modificat de forma que els 20 vaixells (valor constant) només ocupin una posició cadascun en la matriu de 10x10 elements (valors constants) que representarà el "camp de batalla"
+/* Enunciado : Fer una primera versió del joc dels vaixells modificat de forma que els 20 vaixells (valor constant) només ocupin una posició cadascun en la matriu de 10x10 elements (valors constants) que representarà el "camp de batalla"
 a) Inicialment la matriu haurà d'estar inicialitzada a valors 'neutres' per representar un camp buit
 b) El programa assignarà posicions als vaixells de forma aleatòria
 c) A partir d'aquest moment, el programa entrarà en un bucle que demanarà unes coordenades a l'usuari. Depenent de si en aquesta posició hi ha un vaixell o no, donarà la resposta adequada a l'usuari, i en qualsevol dels dos casos 
